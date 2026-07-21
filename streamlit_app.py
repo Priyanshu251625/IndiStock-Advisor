@@ -91,6 +91,7 @@ if prompt:
             "show supported companies",
             "list supported companies",
             "supported companies",
+            "supported stocks",
             "what companies do you support",
             "which companies do you support",
         ]:
