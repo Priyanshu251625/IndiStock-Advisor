@@ -32,6 +32,9 @@ An AI-powered conversational stock recommendation system built using **Groq LLM*
 - TA (Technical Analysis Library)
 
 ---
+```
+Live link: <https://indistock-advisor-itqxouputfo6fcpwx3lsqg.streamlit.app/>
+```
 
 ## 📂 Project Structure
 
