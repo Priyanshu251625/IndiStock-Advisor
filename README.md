@@ -69,7 +69,7 @@ Stock-ai-agent/
 
 ```bash
 git clone <https://github.com/Priyanshu251625/IndiStock-Advisor>
-cd Stock-ai-agent
+cd IndiStock-Advisor
 ```
 
 ### Install dependencies
