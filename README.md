@@ -1,4 +1,4 @@
-# 📈 AI Stock Recommendation Assistant
+# 📈 IndiStock Advisor
 
 An AI-powered conversational stock recommendation system built using **Groq LLM**, **Case-Based Reasoning (CBR)**, and **Streamlit**. The assistant understands natural language investment queries, asks follow-up questions when needed, and recommends stocks based on historical market patterns and user preferences.
 
@@ -32,9 +32,14 @@ An AI-powered conversational stock recommendation system built using **Groq LLM*
 - TA (Technical Analysis Library)
 
 ---
-```
-Live link: <https://indistock-advisor-itqxouputfo6fcpwx3lsqg.streamlit.app/>
-```
+
+## 🌐 Live Demo
+
+**Try the application here:**
+
+https://indistock-advisor-itqxouputfo6fcpwx3lsqg.streamlit.app/
+
+
 
 ## 📂 Project Structure
 
@@ -63,7 +68,7 @@ Stock-ai-agent/
 ### Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/Priyanshu251625/IndiStock-Advisor>
 cd Stock-ai-agent
 ```
 
