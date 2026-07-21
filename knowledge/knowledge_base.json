@@ -1,0 +1,122 @@
+{
+    "BHARTIARTL": {
+        "average_daily_return": 0.001935112741901491,
+        "cumulative_return": 0.2127733767715838,
+        "average_rsi": 65.06725242685968,
+        "average_volatility": 0.014052317031983447,
+        "max_drawdown": -0.0294789638088769,
+        "average_volume_ratio": 1.1863969809113846,
+        "trend": "Bullish",
+        "company_name": "Bharti Airtel",
+        "sector": "Telecom",
+        "yahoo_ticker": "BHARTIARTL.NS"
+    },
+    "HDFCBANK": {
+        "average_daily_return": -0.0007013661463157908,
+        "cumulative_return": -0.1473412029921988,
+        "average_rsi": 49.16908951425912,
+        "average_volatility": 0.0100562046423441,
+        "max_drawdown": -0.1610852744237353,
+        "average_volume_ratio": 1.1809001319329737,
+        "trend": "Bearish",
+        "company_name": "HDFC Bank",
+        "sector": "Banking",
+        "yahoo_ticker": "HDFCBANK.NS"
+    },
+    "ICICIBANK": {
+        "average_daily_return": 0.0013892094842699063,
+        "cumulative_return": 0.0939564387666276,
+        "average_rsi": 61.00131431825193,
+        "average_volatility": 0.009901845213801446,
+        "max_drawdown": -0.0152676227534217,
+        "average_volume_ratio": 1.373937685051654,
+        "trend": "Bullish",
+        "company_name": "ICICI Bank",
+        "sector": "Banking",
+        "yahoo_ticker": "ICICIBANK.NS"
+    },
+    "INFY": {
+        "average_daily_return": -0.006582114645003426,
+        "cumulative_return": -0.0343572800900706,
+        "average_rsi": 35.94174082922487,
+        "average_volatility": 0.012146348290246672,
+        "max_drawdown": -0.1420104234762205,
+        "average_volume_ratio": 1.4269579522454614,
+        "trend": "Bearish",
+        "company_name": "Infosys",
+        "sector": "IT",
+        "yahoo_ticker": "INFY.NS"
+    },
+    "ITC": {
+        "average_daily_return": 0.005358166419723708,
+        "cumulative_return": -0.0708534263178576,
+        "average_rsi": 53.955879137066134,
+        "average_volatility": 0.014323285976611106,
+        "max_drawdown": -0.1287581410123462,
+        "average_volume_ratio": 1.4908233211209356,
+        "trend": "Bearish",
+        "company_name": "ITC",
+        "sector": "FMCG",
+        "yahoo_ticker": "ITC.NS"
+    },
+    "LT": {
+        "average_daily_return": 0.0036228184190979632,
+        "cumulative_return": 0.0676367629713565,
+        "average_rsi": 55.54413211930746,
+        "average_volatility": 0.016651616773599148,
+        "max_drawdown": -0.0556364550013881,
+        "average_volume_ratio": 1.1492791726385978,
+        "trend": "Bullish",
+        "company_name": "Larsen & Toubro",
+        "sector": "Infrastructure",
+        "yahoo_ticker": "LT.NS"
+    },
+    "RELIANCE": {
+        "average_daily_return": 0.0007685854978266369,
+        "cumulative_return": 0.1472636714360549,
+        "average_rsi": 48.22732833956406,
+        "average_volatility": 0.012629711910413429,
+        "max_drawdown": -0.0591581513062349,
+        "average_volume_ratio": 1.2144879616902466,
+        "trend": "Bullish",
+        "company_name": "Reliance Industries",
+        "sector": "Energy",
+        "yahoo_ticker": "RELIANCE.NS"
+    },
+    "SBIN": {
+        "average_daily_return": -0.0008001418322435267,
+        "cumulative_return": 0.1730725017484347,
+        "average_rsi": 49.97595686835779,
+        "average_volatility": 0.013171292852187488,
+        "max_drawdown": -0.0815303192510293,
+        "average_volume_ratio": 1.1393129068300625,
+        "trend": "Bullish",
+        "company_name": "State Bank of India",
+        "sector": "Banking",
+        "yahoo_ticker": "SBIN.NS"
+    },
+    "SUNPHARMA": {
+        "average_daily_return": 0.002146820952043891,
+        "cumulative_return": 0.2932259519997038,
+        "average_rsi": 58.66218145771984,
+        "average_volatility": 0.011124979340736836,
+        "max_drawdown": -0.0358098397651532,
+        "average_volume_ratio": 1.4179760361062708,
+        "trend": "Bullish",
+        "company_name": "Sun Pharma",
+        "sector": "Pharma",
+        "yahoo_ticker": "SUNPHARMA.NS"
+    },
+    "TCS": {
+        "average_daily_return": -0.006991779335663999,
+        "cumulative_return": 0.0241937061104184,
+        "average_rsi": 46.727478480771964,
+        "average_volatility": 0.014466497442485961,
+        "max_drawdown": -0.0896722216021542,
+        "average_volume_ratio": 1.3694632369390658,
+        "trend": "Bullish",
+        "company_name": "Tata Consultancy Services",
+        "sector": "IT",
+        "yahoo_ticker": "TCS.NS"
+    }
+}

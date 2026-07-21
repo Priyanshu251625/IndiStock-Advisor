@@ -1,0 +1,8 @@
+streamlit==1.59.2
+groq==1.5.0
+python-dotenv==1.2.2
+pandas==2.3.3
+numpy==2.3.5
+scikit-learn==1.7.2
+yfinance==1.5.1
+ta==0.11.0
